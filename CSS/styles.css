@@ -1,0 +1,13 @@
+body { background-color: #fff8cd;
+}
+hr {border-style: none;
+    height: 0px;
+    width: 7%;
+    border-top-style: dotted;
+    border-top-width: 8px;
+    border-top-color: magenta;
+}
+h3{color:  magenta;
+}
+h1{color:  magenta;
+}
